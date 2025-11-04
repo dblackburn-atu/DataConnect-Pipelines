@@ -4,7 +4,7 @@
 > - `tenantname-reduce-and-save-deliverable` — *accumulates and stores a deliverable in the pipeline context*
 > - `tenantname-restore-deliverable-and-for-each` — *restores the deliverable to the payload before each destination fitting*
 
-This repository contains two complementary **Subpipelines** that let a single Data Connect pipeline **send one generated deliverable to multiple destination fittings**—without re-creating or re-reading the data each time. Please replate the "tenantname" with your tenant for uniqueness.
+This repository contains two complementary **Subpipelines** that let a single Data Connect pipeline **send one generated deliverable to multiple destination fittings**—without re-creating or re-reading the data each time. Please replace the "tenantname" with your tenant for uniqueness.
 
 ---
 
